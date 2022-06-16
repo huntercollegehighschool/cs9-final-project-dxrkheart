@@ -1,0 +1,316 @@
+{
+    "pencil": {
+        "itemType": "weapon",
+        "displayName": "pencil",
+        "damage": 12,
+        "durability": 10,
+        "critDamage": 1
+    },
+    "logitechOfficeMouse": {
+        "itemType": "weapon",
+        "displayName": "logitech office mouse",
+        "damage": 25,
+        "durability": 50,
+        "critDamage": 1
+    },
+    "logitechGamingMouse": {
+        "itemType": "weapon",
+        "displayName": "logitech gaming mouse",
+        "damage": 40,
+        "durability": 90,
+        "critDamage": 1
+    },
+    "razerDeathadder": {
+        "itemType": "weapon",
+        "displayName": "razer deathadder",
+        "damage": 60,
+        "durability": 150,
+        "critDamage": 1
+    },
+    "programOfASword": {
+        "itemType": "weapon",
+        "displayName": "program of a sword",
+        "damage": 85,
+        "durability": 250,
+        "critDamage": 1
+    },
+    "alphaSwordOfTesting": {
+        "itemType": "weapon",
+        "displayName": "alpha sword of testing",
+        "damage": 100,
+        "durability": 1000,
+        "critDamage": 1,
+        "_comment": "Armor starts underneath this item!"
+    },
+    "bandaid": {
+        "itemType": "armor",
+        "displayName": "bandaid",
+        "defense": 5,
+        "speed": 70
+    },
+    "sweater": {
+        "itemType": "armor",
+        "displayName": "sweater",
+        "defense": 15,
+        "speed": 55
+    },
+    "hoodie": {
+        "itemType": "armor",
+        "displayName": "hoodie",
+        "defense": 30,
+        "speed": 40
+    },
+    "py.jamas": {
+        "itemType": "armor",
+        "displayName": "py.jamas",
+        "defense": 55,
+        "speed": 20
+    },
+    "alphaArmorOfTesting": {
+        "itemType": "armor",
+        "displayName": "alpha armor of testing",
+        "defense": 100,
+        "speed": 100
+    }, 
+    "redBull": {
+        "itemType": "comsumable",
+        "displayName": "red bull",
+        "healthRestored": 50
+    },
+    "coffee": {
+        "itemType": "consumable",
+        "displayName": "coffee",
+        "healthRestored": 70
+    },
+    "lean": {
+        "itemType": "consumable",
+        "displayName": "lean",
+        "healthRestored": 100
+    },
+    "ven": {
+        "itemType": "charm",
+        "displayName": "ven",
+        "ability": "ven.py",
+        "charmDamage": 100,
+        "charmDefense": 100,
+        "charmSpeed": 100,
+        "charmCritDamage": 100,
+        "charmCritChance": 100,
+        "charmMaidens": 0,
+        "abilityName": "An Unstoppable Force",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Serena": {
+        "itemType": "charm",
+        "displayName": "serena",
+        "ability": "serena.py",
+        "charmDamage": 15,
+        "charmDefense": 7,
+        "charmSpeed": 10,
+        "charmCritDamage": 5,
+        "charmCritChance": 2,
+        "charmMaidens": 0,
+        "abilityName": "Aragonite",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "MichelleA": {
+        "itemType": "charm",
+        "displayName": "michelle a",
+        "ability": "michelleA.py",
+        "charmDamage": 5,
+        "charmDefense": 2,
+        "charmSpeed": 10,
+        "charmCritDamage": 4,
+        "charmCritChance": 6,
+        "charmMaidens": 0,
+        "abilityName": "The World",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Morgan": {
+        "itemType": "charm",
+        "displayName": "morgan",
+        "ability": "morgan.py",
+        "charmDamage": 1,
+        "charmDefense": 1,
+        "charmSpeed": 1,
+        "charmCritDamage": 1,
+        "charmCritChance": 1,
+        "charmMaidens": 0,
+        "abilityName": "Bites The Dust",
+        "trigger": "onDeath",
+        "triggerAmt": 1
+    },
+    "Shinae": {
+        "itemType": "charm",
+        "displayName": "shinae",
+        "ability": "shinae.py",
+        "charmDamage": 1,
+        "charmDefense": 1,
+        "charmSpeed": 1,
+        "charmCritDamage": 1,
+        "charmCritChance": 1,
+        "charmMaidens": 0,
+        "abilityName": "Made in Heaven",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Frannie": {
+        "itemType": "charm",
+        "displayName": "frannie",
+        "ability": "frannie.py",
+        "charmDamage": 1,
+        "charmDefense": 1,
+        "charmSpeed": 1,
+        "charmCritDamage": 1,
+        "charmCritChance": 1,
+        "charmMaidens": 0,
+        "abilityName": "The World Over Heaven",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Diane": {
+        "itemType": "charm",
+        "displayName": "diane",
+        "ability": "diane.py",
+        "charmDamage": 0,
+        "charmDefense": 0,
+        "charmSpeed": 1,
+        "charmCritDamage": 5,
+        "charmCritChance": 3,
+        "charmMaidens": 0,
+        "abilityName": "Snow White",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "David": {
+        "itemType": "charm",
+        "displayName": "david",
+        "ability": "david.py",
+        "charmDamage": -1,
+        "charmDefense": -1,
+        "charmSpeed": -1,
+        "charmCritDamage": 1,
+        "charmCritChance": 1,
+        "charmMaidens": 0,
+        "abilityName": "Vantablack",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Georgie": {
+        "itemType": "charm",
+        "displayName": "georgie",
+        "ability": "georgie.py",
+        "charmDamage": 5,
+        "charmDefense": 5,
+        "charmSpeed": 3,
+        "charmCritDamage": 2,
+        "charmCritChance": 5,
+        "charmMaidens": 0,
+        "abilityName": "There Is No Quintic Formula.",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Alessio": {
+        "itemType": "charm",
+        "displayName": "alessio",
+        "ability": "alessio.py",
+        "charmDamage": 3,
+        "charmDefense": 3,
+        "charmSpeed": 3,
+        "charmCritDamage": 3,
+        "charmCritChance": 3,
+        "charmMaidens": 0,
+        "abilityName": "The Third Dimension",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Jason": {
+        "itemType": "charm",
+        "displayName": "jason",
+        "ability": "jason.py",
+        "charmDamage": 7,
+        "charmDefense": 2,
+        "charmSpeed": 7,
+        "charmCritDamage": 2,
+        "charmCritChance": 7,
+        "charmMaidens": 0,
+        "abilityName": "Blue Zenith",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Sophia": {
+        "itemType": "charm",
+        "displayName": "sophia",
+        "ability": "sophia.py",
+        "charmDamage": 5,
+        "charmDefense": 6,
+        "charmSpeed": 7,
+        "charmCritDamage": 8,
+        "charmCritChance": 9,
+        "charmMaidens": 0,
+        "abilityName": "Clementine",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "William": {
+        "itemType": "charm",
+        "displayName": "william",
+        "ability": "william.py",
+        "charmDamage": 4,
+        "charmDefense": 2,
+        "charmSpeed": 0,
+        "charmCritDamage": 4,
+        "charmCritChance": 2,
+        "charmMaidens": 0,
+        "abilityName": "Impostor Syndrome",
+        "trigger": "onBattleStart",
+        "triggerAmt": true
+    },
+    "Katie": {
+        "itemType": "charm",
+        "displayName": "katie",
+        "ability": "katie.py",
+        "charmDamage": 6,
+        "charmDefense": 6,
+        "charmSpeed": 6,
+        "charmCritDamage": 6,
+        "charmCritChance": 6,
+        "charmMaidens": 0,
+        "abilityName": "Deal With The Devil",
+        "trigger": "onBattleStart",
+        "triggerAmt": true
+    },
+    "Rio": {
+        "itemType": "charm",
+        "displayName": "rio",
+        "ability": "rio.py",
+        "charmDamage": 2,
+        "charmDefense": 1,
+        "charmSpeed": 1,
+        "charmCritDamage": 1,
+        "charmCritChance": 2,
+        "charmMaidens": -1,
+        "abilityName": "No Damsels?",
+        "trigger": "onEquip",
+        "triggerAmt": true
+    },
+    "Nile": {
+        "itemType": "charm",
+        "displayName": "nile",
+        "ability": "nile.py",
+        "charmDamage": 4,
+        "charmDefense": 4,
+        "charmSpeed": 4,
+        "charmCritDamage": 4,
+        "charmCritChance": 4,
+        "charmMaidens": 0,
+        "abilityName": "Last Stand",
+        "trigger": "onMovement",
+        "triggerAmt": true
+    }
+
+    
+}

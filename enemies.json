@@ -1,0 +1,12 @@
+{
+    "goblin": {
+        "displayName": "Goblin",
+        "hp": 6,
+        "attack": 2,
+        "defense": 1,
+        "speed": 1,
+        "lootTable": {
+            "gaming": 1
+        }
+    }
+}
